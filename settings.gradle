@@ -1,0 +1,2 @@
+rootProject.name='groundChecker'
+include ':app'
