@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("TEST", "Hello world")
         Log.d("TEST2", "This is also a test")
+
+        //TEST COMMIT 2
     }
 }
