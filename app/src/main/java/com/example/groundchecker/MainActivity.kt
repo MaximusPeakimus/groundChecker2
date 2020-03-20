@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         //test123
 
         Log.d("TEST", "Hello world")
+        Log.d("TEST2", "This is also a test")
     }
 }
